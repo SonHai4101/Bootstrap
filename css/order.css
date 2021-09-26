@@ -1,0 +1,116 @@
+.clear{
+    margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.logo{
+    padding-left: 20%;
+    height: 100px;
+}
+.info{
+    line-height: 50px;
+    padding-left: 20%;
+    height: 100px;
+}
+.info .navbar .mynav a{
+    color: red;
+    line-height: 70px;
+    font-size: 20px;
+}
+
+.main-head{
+    background-image: url(/Project02/images/bg.jpg);
+    height: 720px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.main-head h3{
+    color: #fff;
+    margin: 0 auto;
+    width: 500px;
+    padding-top: 5%;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.main-head fieldset{
+    border: 1px solid #fff;
+    padding: 3px 6px;
+    margin: 0 auto;
+    width: 400px;
+}
+.main-head legend{
+    transform: translateY(-20px);
+    margin-left: 10px;
+    background-color: #47b4d1;
+    width: max-content;
+    font-size: 20px;
+}
+.main-head img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.text-order{
+    float: left;
+    margin-left: 15px;
+}
+.text-order p{
+    margin: 0;
+}
+.text-order input{
+    margin-bottom: 20px;
+    border-radius: 10px;
+    width: 250px;
+}
+#space-fix{
+    margin-top: 20px;
+}
+.form-content{
+    float: left;
+    margin-left: 20px;
+}
+label{
+    font-weight: bold;
+}
+
+#FullName{
+    width: 100%;
+    border-radius: 10px;
+}
+#PhoneNumber{
+    width: 100%;
+    border-radius: 10px;
+}
+#Email{
+    width: 100%;
+    border-radius: 10px;
+}
+#Address{
+    border-radius: 10px;
+}
+#btn-order{
+    background-color: rgb(228, 102, 123);
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+
+.footer{
+    width: 100%;
+    text-align: center;
+}
+
+.icons img{
+    margin: 20px 15px 0;
+    width: 42px;
+    height: 42px;
+}
+.footer p{
+    margin: 25px 0 15px;
+}

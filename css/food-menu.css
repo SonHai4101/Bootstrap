@@ -1,0 +1,94 @@
+.clear{
+    margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.logo{
+    padding-left: 20%;
+    height: 100px;
+}
+.info{
+    line-height: 50px;
+    padding-left: 20%;
+    height: 100px;
+}
+.info .navbar .mynav a{
+    color: red;
+    line-height: 70px;
+    font-size: 20px;
+}
+.main-head{
+    background-image: url(/Project02/images/bg.jpg);
+    height: 350px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 153px;
+    box-sizing: border-box;
+}
+.main-head button{
+    color: #fff;
+    background-color: rgb(228, 102, 123);
+    font-size: 25px;
+    border-radius: 10px;
+}
+.main-head input{
+    font-size: 25px;
+    width: 650px;
+    border-radius: 10px;
+}
+.col h2{
+    margin: 0;
+    color: black;
+    text-align: center;
+    height: 150px;
+    line-height: 190px;
+}
+.explore-items1 .text-items1{
+    text-align: center;
+    margin-top: 400px ;
+    font-size: 30px;
+}
+.explore-items2 .text-items2{
+    text-align: center;
+    margin-top: 400px ;
+    font-size: 30px;
+}
+.explore-items3 .text-items3{
+    text-align: center;
+    margin-top: 400px ;
+    font-size: 30px;
+}
+.img-fix img{
+    width: 120px;
+    height: 120px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 20px;
+}
+.menu1 .text-content{
+    margin: 0 auto -100px;
+}
+.button-fix button{
+    color: #fff;
+    background-color: rgb(228, 102, 123);
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+}
+.footer{
+    width: 100%;
+    text-align: center;
+}
+
+.icons img{
+    margin: 20px 15px 0;
+    width: 42px;
+    height: 42px;
+}
+.footer p{
+    margin: 25px 0 15px;
+}

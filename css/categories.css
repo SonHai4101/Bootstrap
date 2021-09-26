@@ -1,0 +1,56 @@
+.clear{
+    margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.logo{
+    padding-left: 20%;
+    height: 100px;
+}
+.info{
+    line-height: 50px;
+    padding-left: 20%;
+    height: 100px;
+}
+.info .navbar .mynav a{
+    color: red;
+    line-height: 70px;
+    font-size: 20px;
+}
+.col h2{
+    margin: 0;
+    color: black;
+    text-align: center;
+    height: 150px;
+    line-height: 190px;
+}
+
+.explore-items1 .text-items1{
+    text-align: center;
+    margin-top: 400px ;
+    font-size: 30px;
+}
+.explore-items2 .text-items2{
+    text-align: center;
+    margin-top: 400px ;
+    font-size: 30px;
+}
+.explore-items3 .text-items3{
+    text-align: center;
+    margin-top: 400px ;
+    font-size: 30px;
+}
+.footer{
+    width: 100%;
+    text-align: center;
+}
+
+.icons img{
+    margin: 20px 15px 0;
+    width: 42px;
+    height: 42px;
+}
+.footer p{
+    margin: 25px 0 15px;
+}
